@@ -1,2 +1,4 @@
 we rin class
 connecting into web
+working on it
+connecting to local
